@@ -1,5 +1,5 @@
 ### Hi there 👋
-- :bowtie: I'm learning the basics.
+- I'm learning the basics :bowtie: 
 
 <!--
 **Gjeitnes/Gjeitnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
